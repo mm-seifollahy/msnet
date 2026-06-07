@@ -1,4 +1,4 @@
-import { FileText } from 'lucide-react'
+import { FileText, CalendarDays } from 'lucide-react'
 import { lazy } from 'react'
 
 export interface ToolRoute {
@@ -14,6 +14,12 @@ export const tools: ToolRoute[] = [
     label: 'Lorem Ipsum',
     icon: FileText,
     component: lazy(() => import('@/tools/lorem')),
+  },
+  {
+    path: '/date-converter',
+    label: 'تبدیل تاریخ',
+    icon: CalendarDays,
+    component: lazy(() => import('@/tools/date-converter')),
   },
 ]
 
