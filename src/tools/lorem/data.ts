@@ -1,0 +1,26 @@
+export const loremData = {
+  en: [
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    'Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.',
+    'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.',
+    'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.',
+    'Nulla pariatur excepteur sint occaecat cupidatat non proident deserunt.',
+    'Mollit anim id est laborum sed perspiciatis unde omnis iste natus error.',
+    'At vero eos et accusamus et iusto odio dignissimos ducimus blanditiis.',
+    'Nam libero tempore cum soluta nobis eligendi optio cumque nihil impedit.',
+    'Temporibus autem quibusdam et aut officiis debitis rerum necessitatibus.',
+  ],
+  fa: [
+    'لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ است.',
+    'چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است.',
+    'طراح گرافیک از این متن به عنوان عنصر گرافیکی برای پر کردن صفحه استفاده می‌کند.',
+    'هنگامی که برای طراحی صفحه یا رابط کاربری نیاز به متن آزمایشی داریم.',
+    'این متن برای بررسی ظاهر بصری صفحه‌آرایی و چیدمان المان‌ها به کار می‌رود.',
+    'صنعت چاپ و طراحی گرافیک همواره از متن‌های آزمایشی برای نمونه‌سازی بهره می‌برد.',
+    'وقتی محتوای واقعی هنوز آماده نیست از لورم ایپسوم برای پر کردن فضا استفاده می‌شود.',
+    'طراحان وب و گرافیک از این متن برای تست فونت و رنگ و چیدمان استفاده می‌کنند.',
+    'نمونه‌سازی اولیه بدون محتوای واقعی با کمک متن‌های تصادفی امکان‌پذیر می‌شود.',
+    'ابزارهای آنلاین زیادی برای تولید متن لورم ایپسوم در زبان‌های مختلف وجود دارد.',
+  ],
+}
